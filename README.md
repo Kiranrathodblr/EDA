@@ -1,1 +1,1 @@
-# EDA
+# EDA - Community session
